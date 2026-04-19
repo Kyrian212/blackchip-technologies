@@ -3,20 +3,20 @@ import { services, roadmap } from './constants';
 
 const testimonials = [
   {
-    name: "John Doe",
-    company: "TechCorp Inc.",
+    name: "Ernest Nnamdi",
+    company: "Piron Finance",
     text: "Blackchip transformed our infrastructure, ensuring compliance and boosting efficiency by 40%. Their expertise in ISO standards is unmatched.",
     rating: 5
   },
   {
-    name: "Jane Smith",
-    company: "AI Solutions Ltd.",
+    name: "KVictoria Ani",
+    company: "Boldmann Ltd",
     text: "The AI governance framework they implemented gave us peace of mind. Compliant innovation at its best.",
     rating: 5
   },
   {
-    name: "Mike Johnson",
-    company: "SecureNet",
+    name: "Wale Johnson",
+    company: "Assets MicroFinance Bank"
     text: "Outstanding SRE services and automated patching saved us countless hours. Highly recommend for enterprise needs.",
     rating: 5
   }
