@@ -9,7 +9,7 @@ const testimonials = [
     rating: 5
   },
   {
-    name: "KVictoria Ani",
+    name: "Victoria Ani",
     company: "Boldmann Ltd",
     text: "The AI governance framework they implemented gave us peace of mind. Compliant innovation at its best.",
     rating: 5
