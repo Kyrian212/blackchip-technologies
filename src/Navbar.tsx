@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 bg-slate-950/80 backdrop-blur-md border-b border-slate-800/50 text-white p-4 z-10">
       <div className="container mx-auto max-w-7xl flex justify-between items-center">
-        <div className="text-xl font-bold">Blackchip</div>
+        <Link to="/" className="text-xl font-bold hover:text-blue-400 transition">Blackchip</Link>
         <div className="space-x-4 flex items-center">
           <Link to="/#services" className="hover:text-blue-400 transition">Services</Link>
           <Link to="/#ai-governance" className="hover:text-blue-400 transition">AI Governance</Link>
